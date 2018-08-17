@@ -15,6 +15,9 @@ Notifications include:
 ## Purpose
 Email is the primary way Jive notifies subscribed users of Jive activity. Notifications of Jive activity in a Slack channel promote engagement from users in a shop that uses Slack more than email. No Jive-Slack integration is on the market.
 
+## Example
+![](feed.png)
+
 ## How it works
 - Uses Jive's REST API to extract the past five minutes of user activity related to content
 - Formats the data into human-readable text and Slack's messaging format
