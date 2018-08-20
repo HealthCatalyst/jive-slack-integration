@@ -12,6 +12,8 @@ Notifications include:
 - Link to the content in Jive
 - Any body content up to about 325 characters (with spaces)
 
+The notifications also include a link to the actor's Jive profile and a link to the content itself.
+
 ## Purpose
 Email is the primary way Jive notifies subscribed users of Jive activity. Notifications of Jive activity in a Slack channel promote engagement from users in a shop that uses Slack more than email. No Jive-Slack integration is on the market.
 
