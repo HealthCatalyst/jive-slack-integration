@@ -1,6 +1,6 @@
 #!/bin/bash
 # Variables passed in from 1234.json
-# Does not post voting actions. To post votes, add `voted:on`` under `Verbs` section and remove `Remove votes by popular demand` code (and fix filenames in lines before and after).
+# Does not post voting actions. To post votes, add `voted:on`` under `Verbs` section and remove `Filter out vote actions` code below (and fix filenames in lines before and after).
 
 # Polling interval
 after=`date --date="5 minutes ago" +%FT%T.%3N`
